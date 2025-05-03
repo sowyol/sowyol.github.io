@@ -6,7 +6,7 @@ body {
 }
 
 body {
-    background-image: url("../IMG/img9.jpg");
+    background-image: url("./IMG/img9.jpg");
     background-size: cover; /* чтобы изображение заполняло весь экран */
     background-position: center; /* чтобы изображение было по центру */
     background-repeat: no-repeat; /* чтобы оно не повторялось */
